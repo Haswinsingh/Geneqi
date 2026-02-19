@@ -17,7 +17,7 @@ process.on('uncaughtException', (err) => {
 try {
     log('Loading dependencies...');
     const express = require('express');
-    const cors = require('cors');   // ✅ ONLY DECLARE ONCE
+    const cors = require('cors');
     const dotenv = require('dotenv');
     log('Dependencies loaded.');
 
@@ -34,9 +34,20 @@ try {
 
     const app = express();
 
-    // ✅ Proper CORS configuration
+    // ✅ Proper CORS setup
+    const allowedOrigins = [
+        "http://localhost:5173",
+        process.env.FRONTEND_URL
+    ].filter(Boolean);
+
     app.use(cors({
-        origin: process.env.FRONTEND_URL || "*",
+        origin: function (origin, callback) {
+            if (!origin || allowedOrigins.includes(origin)) {
+                callback(null, true);
+            } else {
+                callback(new Error("Not allowed by CORS"));
+            }
+        },
         credentials: true
     }));
 
