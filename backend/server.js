@@ -17,34 +17,26 @@ process.on('uncaughtException', (err) => {
 try {
     log('Loading dependencies...');
     const express = require('express');
-    const cors = require('cors');
+    const cors = require('cors');   // ✅ ONLY DECLARE ONCE
     const dotenv = require('dotenv');
     log('Dependencies loaded.');
+
+    dotenv.config();
+    log('Environment variables loaded.');
 
     log('Loading DB config...');
     const connectDB = require('./config/db');
     log('DB config loaded.');
 
-    dotenv.config();
-    log('Environment variables loaded.');
-
     log('Connecting to DB...');
     connectDB();
-    // connectDB is async but we don't await here in original code, so it might fail later.
-    // However, if it fails synchronously inside (e.g. invalid URI format), it might crash.
     log('DB connection initiated.');
 
     const app = express();
-    const allowedOrigins = [
-        "http://localhost:5173",
-        "https://your-frontend.vercel.app", // REPLACE WITH YOUR VERCEL URL
-        process.env.FRONTEND_URL
-    ].filter(Boolean);
 
-    const cors = require("cors");
-
+    // ✅ Proper CORS configuration
     app.use(cors({
-        origin: process.env.FRONTEND_URL,
+        origin: process.env.FRONTEND_URL || "*",
         credentials: true
     }));
 
