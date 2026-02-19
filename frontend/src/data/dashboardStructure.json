@@ -1,0 +1,107 @@
+[
+    {
+        "category": "Male",
+        "sections": [
+            {
+                "id": "scholarships",
+                "title": "Scholarships & Mentorship",
+                "icon": "GraduationCap",
+                "desc": "Educational funding and career guidance."
+            },
+            {
+                "id": "health",
+                "title": "Health & Fitness",
+                "icon": "Activity",
+                "desc": "Mental health, PMJAY, and preventive care."
+            },
+            {
+                "id": "schemes",
+                "title": "Employment & Schemes",
+                "icon": "Briefcase",
+                "desc": "Skill development, loans, and startup support."
+            },
+            {
+                "id": "legal",
+                "title": "Legal Support",
+                "icon": "Scale",
+                "desc": "Labor laws, rights awareness, and legal aid."
+            },
+            {
+                "id": "welfare",
+                "title": "Social Security",
+                "icon": "Umbrella",
+                "desc": "Pension, insurance, and housing schemes."
+            }
+        ]
+    },
+    {
+        "category": "Female",
+        "sections": [
+            {
+                "id": "scholarships",
+                "title": "Scholarships for Girls",
+                "icon": "GraduationCap",
+                "desc": "Special grants for higher education and research."
+            },
+            {
+                "id": "health",
+                "title": "Maternity & Health",
+                "icon": "Baby",
+                "desc": "Maternity benefits, reproductive rights, and nutrition."
+            },
+            {
+                "id": "schemes",
+                "title": "Women Empowerment",
+                "icon": "Users",
+                "desc": "Self-help groups, startup loans, and skill training."
+            },
+            {
+                "id": "legal",
+                "title": "Safety & Legal Rights",
+                "icon": "ShieldAlert",
+                "desc": "Domestic violence protection, POSH, and family law."
+            },
+            {
+                "id": "welfare",
+                "title": "Social Support",
+                "icon": "HeartHandshake",
+                "desc": "Widow pension, housing support, and insurance."
+            }
+        ]
+    },
+    {
+        "category": "Others",
+        "sections": [
+            {
+                "id": "scholarships",
+                "title": "Inclusive Education",
+                "icon": "BookOpen",
+                "desc": "Special scholarships and vocational training support."
+            },
+            {
+                "id": "health",
+                "title": "Inclusive Healthcare",
+                "icon": "Heart",
+                "desc": "Gender-affirming care info, mental health, and insurance."
+            },
+            {
+                "id": "schemes",
+                "title": "Livelihood & Rights",
+                "icon": "BadgeCheck",
+                "desc": "SMILE scheme, skill development, and self-employment."
+            },
+            {
+                "id": "legal",
+                "title": "Legal Protection",
+                "icon": "Gavel",
+                "desc": "Transgender Persons Act, identity cards, and free legal aid."
+            },
+            {
+                "id": "welfare",
+                "title": "Social Welfare",
+                "icon": "Home",
+                "desc": "Shelter homes (Garima Greh), pension, and food security."
+            }
+        ]
+    }
+]

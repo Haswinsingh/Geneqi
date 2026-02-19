@@ -1,0 +1,465 @@
+[
+    {
+        "category": "Male",
+        "schemes": [
+            {
+                "id": "m1_1",
+                "type": "scholarships",
+                "title": "Samagra Shiksha",
+                "desc": "Integrated school education scheme from pre-primary to senior secondary level for all children including boys.",
+                "link": "https://samagra.education.gov.in"
+            },
+            {
+                "id": "m1_2",
+                "type": "scholarships",
+                "title": "PM POSHAN (Mid-Day Meal Scheme)",
+                "desc": "Provides nutritious meals to school children to improve attendance, retention, and overall health.",
+                "link": "https://pmposhan.education.gov.in"
+            },
+            {
+                "id": "m1_3",
+                "type": "scholarships",
+                "title": "National Apprenticeship Promotion Scheme (NAPS)",
+                "desc": "Encourages apprenticeship training in industries to provide practical work experience.",
+                "link": "https://www.apprenticeshipindia.gov.in"
+            },
+            {
+                "id": "m1_4",
+                "type": "scholarships",
+                "title": "National Means-cum-Merit Scholarship",
+                "desc": "For meritorious students from economically weaker sections to arrest dropout at class 8.",
+                "link": "https://scholarships.gov.in/"
+            },
+            {
+                "id": "m1_5",
+                "type": "scholarships",
+                "title": "Central Sector Scheme of Scholarship",
+                "desc": "Financial assistance to university/college students for higher education.",
+                "link": "https://scholarships.gov.in/"
+            },
+            {
+                "id": "m1_6",
+                "type": "scholarships",
+                "title": "Skill India Mission",
+                "desc": "National mission to equip youth with industry-relevant skills and improve job readiness.",
+                "link": "https://www.skillindia.gov.in"
+            },
+            {
+                "id": "m1_7",
+                "type": "scholarships",
+                "title": "PM Vishwakarma Scheme",
+                "desc": "Supports traditional artisans and craftspeople with financial assistance, skill training, and market linkage.",
+                "link": "https://pmvishwakarma.gov.in"
+            },
+            {
+                "id": "m2_1",
+                "type": "health",
+                "title": "Ayushman Bharat – PMJAY",
+                "desc": "Health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+                "link": "https://pmjay.gov.in"
+            },
+            {
+                "id": "m2_2",
+                "type": "health",
+                "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+                "desc": "Offers affordable life insurance coverage for individuals aged 18-50 years.",
+                "link": "https://jansuraksha.gov.in"
+            },
+            {
+                "id": "m2_3",
+                "type": "health",
+                "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+                "desc": "Provides low-cost accidental death and disability insurance coverage.",
+                "link": "https://jansuraksha.gov.in"
+            },
+            {
+                "id": "m2_4",
+                "type": "health",
+                "title": "Khelo India Programme",
+                "desc": "Promotes sports development at grassroots level and provides scholarships to young athletes.",
+                "link": "https://kheloindia.gov.in"
+            },
+            {
+                "id": "m2_5",
+                "type": "health",
+                "title": "Special Area Games Scheme (SAG)",
+                "desc": "Identifies and nurtures sports talent from rural and tribal areas through professional training.",
+                "link": "https://sportsauthorityofindia.nic.in"
+            },
+            {
+                "id": "m3_1",
+                "type": "schemes",
+                "title": "Pradhan Mantri Mudra Yojana (PMMY)",
+                "desc": "Provides collateral-free loans to micro and small entrepreneurs.",
+                "link": "https://www.mudra.org.in"
+            },
+            {
+                "id": "m3_2",
+                "type": "schemes",
+                "title": "National Career Service (NCS)",
+                "desc": "Provides job search assistance, career counseling, and employment opportunities through a digital platform.",
+                "link": "https://www.ncs.gov.in"
+            },
+            {
+                "id": "m3_3",
+                "type": "schemes",
+                "title": "Stand Up India Scheme",
+                "desc": "Facilitates bank loans to promote entrepreneurship among youth and underrepresented groups.",
+                "link": "https://www.standupmitra.in"
+            },
+            {
+                "id": "m3_4",
+                "type": "schemes",
+                "title": "Pradhan Mantri Kaushal Vikas Yojana",
+                "desc": "Skill certification scheme to enable Indian youth to take up industry-relevant skill training.",
+                "link": "https://www.pmkvyofficial.org/"
+            },
+            {
+                "id": "m4_1",
+                "type": "legal",
+                "title": "Right to Education Act (RTE)",
+                "desc": "Guarantees free and compulsory education for children aged 6 to 14 years.",
+                "link": "https://dsel.education.gov.in/rte"
+            },
+            {
+                "id": "m4_2",
+                "type": "legal",
+                "title": "Protection of Children from Sexual Offences (POCSO)",
+                "desc": "Protects children from sexual assault, harassment, and pornography.",
+                "link": "https://wcd.nic.in/act/protection-children-sexual-offences-act-2012"
+            },
+            {
+                "id": "m4_3",
+                "type": "legal",
+                "title": "Child Labour (Prohibition) Act",
+                "desc": "Prohibits engagement of children in certain employments and regulates conditions of work.",
+                "link": "https://labour.gov.in/"
+            },
+            {
+                "id": "m4_4",
+                "type": "legal",
+                "title": "Juvenile Justice Act",
+                "desc": "Consolidates laws relating to children alleged and found to be in conflict with law.",
+                "link": "https://wcd.nic.in/act/juvenile-justice-care-and-protection-children-act-2015"
+            },
+            {
+                "id": "m4_5",
+                "type": "legal",
+                "title": "Minimum Wages Act",
+                "desc": "Ensures minimum rates of wages in certain employments.",
+                "link": "https://labour.gov.in/"
+            },
+            {
+                "id": "m5_1",
+                "type": "welfare",
+                "title": "Atal Pension Yojana (APY)",
+                "desc": "Guaranteed pension scheme for unorganized sector workers.",
+                "link": "https://npscra.nsdl.co.in"
+            },
+            {
+                "id": "m5_2",
+                "type": "welfare",
+                "title": "Pradhan Mantri Awas Yojana (Urban/Rural)",
+                "desc": "Provides affordable housing with water connection, toilet facilities, and electricity.",
+                "link": "https://pmaymis.gov.in/"
+            },
+            {
+                "id": "m5_3",
+                "type": "welfare",
+                "title": "National Child Labour Project (NCLP)",
+                "desc": "Rehabilitates child labourers by providing education and vocational training.",
+                "link": "https://labour.gov.in"
+            }
+        ]
+    },
+    {
+        "category": "Female",
+        "schemes": [
+            {
+                "id": "f1_1",
+                "type": "scholarships",
+                "title": "Sukanya Samriddhi Yojana (SSY)",
+                "desc": "Small savings scheme for girl child to support future education and marriage expenses.",
+                "link": "https://www.nsiindia.gov.in"
+            },
+            {
+                "id": "f1_2",
+                "type": "scholarships",
+                "title": "National Scheme for Incentive to Girls for Secondary Education (NSIGSE)",
+                "desc": "Provides financial incentives to encourage girls to enroll and continue secondary education.",
+                "link": "https://dsel.education.gov.in"
+            },
+            {
+                "id": "f1_3",
+                "type": "scholarships",
+                "title": "AICTE Pragati Scholarship",
+                "desc": "Scholarship for girl students pursuing technical education.",
+                "link": "https://scholarships.gov.in/"
+            },
+            {
+                "id": "f1_4",
+                "type": "scholarships",
+                "title": "Beti Bachao Beti Padhao",
+                "desc": "Scheme to celebrate the Girl Child & Enable her Education.",
+                "link": "https://wcd.nic.in/bbbp"
+            },
+            {
+                "id": "f1_5",
+                "type": "scholarships",
+                "title": "Post-Matric Scholarship for SC Girls",
+                "desc": "Financial support for SC girl students for post-matriculation studies.",
+                "link": "https://scholarships.gov.in"
+            },
+            {
+                "id": "f2_1",
+                "type": "health",
+                "title": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+                "desc": "Provides free LPG connections to women from economically weaker households.",
+                "link": "https://www.pmuy.gov.in"
+            },
+            {
+                "id": "f2_2",
+                "type": "health",
+                "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+                "desc": "Maternity benefit program providing cash incentive for first living child.",
+                "link": "https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana"
+            },
+            {
+                "id": "f2_3",
+                "type": "health",
+                "title": "POSHAN Abhiyaan",
+                "desc": "PM's Overarching Scheme for Holistic Nourishment to improve nutritional outcomes.",
+                "link": "https://poshanabhiyaan.gov.in/"
+            },
+            {
+                "id": "f3_1",
+                "type": "schemes",
+                "title": "Stand Up India Scheme",
+                "desc": "Provides bank loans to women entrepreneurs to promote business ownership.",
+                "link": "https://www.standupmitra.in"
+            },
+            {
+                "id": "f3_2",
+                "type": "schemes",
+                "title": "Mahila E-Haat",
+                "desc": "Online marketing platform to support women entrepreneurs and self-help groups.",
+                "link": "https://mahilaehaat-rmk.gov.in"
+            },
+            {
+                "id": "f3_3",
+                "type": "schemes",
+                "title": "Mahila Shakti Kendra",
+                "desc": "Empowers rural women through community participation and skill development.",
+                "link": "https://wcd.nic.in/schemes/mahila-shakti-kendra"
+            },
+            {
+                "id": "f3_4",
+                "type": "schemes",
+                "title": "STEP Scheme",
+                "desc": "Support to Training and Employment Programme for Women in traditional sectors.",
+                "link": "https://wcd.nic.in/schemes/support-training-and-employment-programme-women-step"
+            },
+            {
+                "id": "f4_1",
+                "type": "legal",
+                "title": "Protection of Women from Domestic Violence Act",
+                "desc": "Provides protection to wives/live-in partners from domestic violence.",
+                "link": "https://wcd.nic.in/act/protection-women-domestic-violence-act-2005"
+            },
+            {
+                "id": "f4_2",
+                "type": "legal",
+                "title": "Sexual Harassment of Women at Workplace Act 2013",
+                "desc": "Prevention, prohibition and redressal of sexual harassment at workplace.",
+                "link": "https://wcd.nic.in/act/sexual-harassment-women-workplace-prevention-prohibition-and-redressal-act-2013"
+            },
+            {
+                "id": "f4_3",
+                "type": "legal",
+                "title": "Maternity Benefit Act",
+                "desc": "Regulates employment of women for certain period before and after child birth.",
+                "link": "https://labour.gov.in/"
+            },
+            {
+                "id": "f4_4",
+                "type": "legal",
+                "title": "Dowry Prohibition Act",
+                "desc": "Prohibits the giving or taking of dowry.",
+                "link": "https://wcd.nic.in/act/dowry-prohibition-act-1961"
+            },
+            {
+                "id": "f4_5",
+                "type": "legal",
+                "title": "Equal Remuneration Act",
+                "desc": "Provides for payment of equal remuneration to men and women workers.",
+                "link": "https://labour.gov.in/"
+            },
+            {
+                "id": "f5_1",
+                "type": "welfare",
+                "title": "Working Women Hostel Scheme",
+                "desc": "Provides safe and affordable accommodation for working women.",
+                "link": "https://wcd.nic.in"
+            },
+            {
+                "id": "f5_2",
+                "type": "welfare",
+                "title": "One Stop Centre Scheme (Sakhi)",
+                "desc": "Provides integrated support and assistance to women affected by violence.",
+                "link": "https://wcd.nic.in/schemes/one-stop-centre-scheme-1"
+            },
+            {
+                "id": "f5_3",
+                "type": "welfare",
+                "title": "Ujjawala Scheme",
+                "desc": "Prevention of trafficking and rescue, rehabilitation of victims.",
+                "link": "https://wcd.nic.in/schemes/ujjawala"
+            },
+            {
+                "id": "f5_4",
+                "type": "welfare",
+                "title": "Swadhar Greh Scheme",
+                "desc": "Targeting women victims of difficult circumstances who are in need of institutional support.",
+                "link": "https://wcd.nic.in/schemes/swadhar-greh-scheme"
+            }
+        ]
+    },
+    {
+        "category": "Others",
+        "schemes": [
+            {
+                "id": "o1_1",
+                "type": "scholarships",
+                "title": "SMILE Scheme - Scholarship",
+                "desc": "Scholarships for Transgender Students studying in classes IX and X and XI to XII.",
+                "link": "https://transgender.dosje.gov.in"
+            },
+            {
+                "id": "o1_2",
+                "type": "scholarships",
+                "title": "PM-DAKSH Yojana",
+                "desc": "Skill development training programmes for marginalized target groups including Transgenders.",
+                "link": "https://pm-daksh.dosje.gov.in"
+            },
+            {
+                "id": "o1_3",
+                "type": "scholarships",
+                "title": "Post-Matric Scholarship for Transgender",
+                "desc": "Scholarship for transgender students for post-matriculation studies.",
+                "link": "https://transgender.dosje.gov.in"
+            },
+            {
+                "id": "o2_1",
+                "type": "health",
+                "title": "Ayushman Bharat – PMJAY for TG",
+                "desc": "Health insurance package specifically designed for transgender persons covering gender affirmation surgery.",
+                "link": "https://pmjay.gov.in"
+            },
+            {
+                "id": "o2_2",
+                "type": "health",
+                "title": "National AIDS Control Programme (NACP)",
+                "desc": "Provides targeted interventions, HIV prevention, testing, and treatment services.",
+                "link": "https://naco.gov.in"
+            },
+            {
+                "id": "o2_3",
+                "type": "health",
+                "title": "De-Addiction Centres",
+                "desc": "Support for substance abuse prevention and treatment.",
+                "link": "https://socialjustice.gov.in/"
+            },
+            {
+                "id": "o2_4",
+                "type": "health",
+                "title": "Mental Health Support - Kiran",
+                "desc": "24/7 Toll-Free Mental Health Rehabilitation Helpline.",
+                "link": "https://socialjustice.gov.in/"
+            },
+            {
+                "id": "o3_1",
+                "type": "schemes",
+                "title": "SMILE - Livelihood & Enterprise",
+                "desc": "Comprehensive rehabilitation for welfare of Transgender Persons.",
+                "link": "https://transgender.dosje.gov.in"
+            },
+            {
+                "id": "o3_2",
+                "type": "schemes",
+                "title": "Stand-Up India Scheme",
+                "desc": "Provides bank loans to SC/ST and women entrepreneurs; transgender persons can apply under eligible categories.",
+                "link": "https://www.standupmitra.in"
+            },
+            {
+                "id": "o3_3",
+                "type": "schemes",
+                "title": "DAY-NULM",
+                "desc": "Self-employment support and skill training for urban poor including transgender communities.",
+                "link": "https://nulm.gov.in"
+            },
+            {
+                "id": "o3_4",
+                "type": "schemes",
+                "title": "DDU-GKY",
+                "desc": "Placement linked skill development training for rural youth including transgenders.",
+                "link": "https://ddugky.gov.in"
+            },
+            {
+                "id": "o4_1",
+                "type": "legal",
+                "title": "Transgender Persons (Protection of Rights) Act, 2019",
+                "desc": "Prohibits discrimination and recognizes right to self-perceived gender identity.",
+                "link": "https://socialjustice.gov.in"
+            },
+            {
+                "id": "o4_2",
+                "type": "legal",
+                "title": "National Portal for Transgender Persons",
+                "desc": "Apply for Transgender Identity Certificate and ID card online.",
+                "link": "https://transgender.dosje.gov.in"
+            },
+            {
+                "id": "o4_3",
+                "type": "legal",
+                "title": "NALSA Judgement 2014",
+                "desc": "Supreme Court judgement recognizing third gender and affirming fundamental rights.",
+                "link": "https://nalsa.gov.in"
+            },
+            {
+                "id": "o4_4",
+                "type": "legal",
+                "title": "Legal Services Authorities Free Legal Aid",
+                "desc": "Free legal services to marginalized individuals including transgender persons.",
+                "link": "https://nalsa.gov.in"
+            },
+            {
+                "id": "o4_5",
+                "type": "legal",
+                "title": "Immoral Traffic (Prevention) Act",
+                "desc": "Protection against trafficking and exploitation.",
+                "link": "https://legislative.gov.in"
+            },
+            {
+                "id": "o5_1",
+                "type": "welfare",
+                "title": "Garima Greh (Shelter Homes)",
+                "desc": "Safe shelter, food, healthcare, and skill training for transgender persons.",
+                "link": "https://transgender.dosje.gov.in"
+            },
+            {
+                "id": "o5_2",
+                "type": "welfare",
+                "title": "National Social Assistance Programme (NSAP)",
+                "desc": "Pension schemes for elderly, widows, and PwDs including eligible transgenders.",
+                "link": "https://nsap.nic.in"
+            },
+            {
+                "id": "o5_3",
+                "type": "welfare",
+                "title": "Pradhan Mantri Awas Yojana (PMAY)",
+                "desc": "Affordable housing for economically weaker sections including transgender beneficiaries.",
+                "link": "https://pmaymis.gov.in"
+            }
+        ]
+    }
+]
