@@ -50,6 +50,7 @@ git push origin main
     -   `MONGO_URI`: Your MongoDB Atlas connection string.
     -   `JWT_SECRET`: Your secret key.
     -   `PYTHON_SERVICE_URL`: Your **Python Render URL** (from Step 4).
+    -   `FRONTEND_URL`: Your **Vercel Frontend URL** (after you deploy it).
 8.  Click **Create Web Service**.
 9.  Copy the **URL** (e.g., `https://geneqi-backend.onrender.com`).
 

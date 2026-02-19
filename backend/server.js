@@ -35,7 +35,19 @@ try {
     log('DB connection initiated.');
 
     const app = express();
-    app.use(cors());
+    const allowedOrigins = [
+        "http://localhost:5173",
+        "https://your-frontend.vercel.app", // REPLACE WITH YOUR VERCEL URL
+        process.env.FRONTEND_URL
+    ].filter(Boolean);
+
+    const cors = require("cors");
+
+    app.use(cors({
+        origin: process.env.FRONTEND_URL,
+        credentials: true
+    }));
+
     app.use(express.json());
     log('Middleware configured.');
 
